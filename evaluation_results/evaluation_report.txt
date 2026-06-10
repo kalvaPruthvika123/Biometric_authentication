@@ -1,0 +1,24 @@
+Total Test Samples: 8
+Correct Predictions: 3
+Incorrect Predictions: 5
+Accuracy: 0.375000
+Precision: 0.375000
+Recall: 0.375000
+F1 Score: 0.375000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         1
+           2       0.00      0.00      0.00         1
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+           5       1.00      1.00      1.00         1
+           6       1.00      1.00      1.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+   __ERROR__       0.00      0.00      0.00         0
+
+    accuracy                           0.38         8
+   macro avg       0.33      0.33      0.33         8
+weighted avg       0.38      0.38      0.38         8
